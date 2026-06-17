@@ -23,7 +23,7 @@ This solution consists of three main components:
 
 Watch the complete solution in action:
 
-**[▶️ Watch Demo Video](https://github.com/sposaro/ai-powered-document-extractor/raw/main/Text%20Extraction%20Demo.mp4)** (50 MB)
+**[▶️ Download Demo Video from Releases](https://github.com/sposaro/ai-powered-document-extractor/releases)** (50 MB)
 
 The demo shows:
 - Converting Word documents to PDF
