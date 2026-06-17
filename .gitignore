@@ -1,0 +1,26 @@
+# Output PDFs (not needed in repo - generated on demand)
+Output PDF Files/
+Output\ PDF\ Files/
+
+# Windows and system files
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+*.log
+
+# PowerShell
+*.ps1.backup
+.vscode/
+*.history
+
+# Temporary files
+temp/
+tmp/
+.temp/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
