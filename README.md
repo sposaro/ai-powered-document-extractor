@@ -19,6 +19,22 @@ This solution consists of three main components:
 
 ---
 
+## Demo Video
+
+Watch the complete solution in action:
+
+**[▶️ Watch Demo Video](https://github.com/sposaro/ai-powered-document-extractor/raw/main/Text%20Extraction%20Demo.mp4)** (50 MB)
+
+The demo shows:
+- Converting Word documents to PDF
+- Converting cell phone photos to PDF
+- Importing the Power Automate flow
+- Configuring the PDF folder path
+- Running AI Builder text extraction
+- Reviewing extracted results
+
+---
+
 ## Prerequisites
 
 ### For Local PDF Conversion
